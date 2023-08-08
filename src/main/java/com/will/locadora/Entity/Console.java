@@ -1,0 +1,7 @@
+package com.will.locadora.Entity;
+
+public enum Console {
+
+    PS1,PS2,PS3,PS4,PS5,XBOX,XBOX360,XBOXSERIES,XBOXSERIEX,SNES,NES,GAMEBOY,GAMEBOYADVENCE,NSWITCH
+
+}
